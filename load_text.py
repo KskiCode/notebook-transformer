@@ -4,4 +4,4 @@ with open("./data\source_text.txt", "r", encoding="utf8") as infile, open(r"./da
     for line in infile:
         if line.strip():
             outfile.write(line)
-            print(line)
+            print(line)            

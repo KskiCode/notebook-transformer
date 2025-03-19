@@ -47,3 +47,11 @@ The model supports text generation with the following features:
 - Switch to CUDA
 - Scale the model to more parameters - see how far it can go locally 
 
+
+# Runs
+
+| Run |  Tokens | Parameters  | Tokenizer (vocab_size)      |
+| ------------- | ------------| ------------ | ------------ |
+| 1 | 497,638   | 93,477,969  | gpt2-large (50,257)         |
+| 2 |   |   |   |
+| 3 |   |   |   |                                           |
